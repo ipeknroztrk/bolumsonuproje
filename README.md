@@ -1,2 +1,2 @@
-# b-l-msonuproje
+# bölümmsonuproje
 https://app.patika.dev/ipeknroztrk
